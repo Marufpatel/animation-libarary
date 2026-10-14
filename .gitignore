@@ -1,0 +1,12 @@
+node_modules/
+dist/
+public/fonts/
+src/world.ts
+.env
+.env.*
+*.mp4
+*.png
+*.jpg
+*.zip
+__pycache__/
+*.tsbuildinfo
